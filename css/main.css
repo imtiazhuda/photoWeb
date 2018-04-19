@@ -1,0 +1,56 @@
+.loginBox {
+  max-width:  90%;
+  width: 500px
+}
+
+.stretch input  {
+  width: 100%
+}
+
+/* button color starts*/
+.loginBox .md-button:not([disabled]):hover {
+  background-color:#87de94;
+}
+
+.loginBox .md-button {
+  color :#fff;
+   background-color:#34bf49;
+}
+/* button color ends*/
+
+.topMenu-center .md-button {
+  border-radius: 0;
+  cursor: pointer;
+  display: block;
+  line-height: 40px;
+  margin: 0;
+  max-height: 40px;
+  overflow: hidden;
+  text-align: left;
+  text-decoration: none;
+  white-space: normal;
+  width: 100%;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sidebar-brand{
+  font-size: 15px;
+  color:#808080;
+}
+
+.sideBarclose{
+ 
+ transform:translateX(-300px);
+}
+
+.sideBarActive{
+  background-color: rgba(158,158,158,0.2);
+}
+
+.rightInfo{
+ /* transform:translateY(269px) !important;*/
+ transform:translateX(-300px);
+}
