@@ -1,5 +1,6 @@
 var app = angular.module('myApp',['ngRoute','ngAnimate','ngSanitize','ui.bootstrap','ngMaterial','ngMessages']);
-/*test comment  from local*/
+/* test comment  fgdfg and from local */
+
 window.routes =
 {
     "/": {
